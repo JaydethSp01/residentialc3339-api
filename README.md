@@ -1,2 +1,3 @@
-# residentialc3339-api
-ScrumDev AI backend (residentialc3339-api)
+# RESIDENTIALC3339 - Backend
+
+FastAPI desplegado en Render.
